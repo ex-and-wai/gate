@@ -1,3 +1,3 @@
 # gate
 
-Project for company.
+Project for my company.
